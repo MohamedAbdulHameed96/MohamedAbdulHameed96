@@ -1,7 +1,9 @@
 <div style="background-color:grey">
 <h1 align="center">Hi 👋, I'm Mohamed Abdul Hameed</h1>
-<h3 align="center">Data Scientist (Python, SQL, Data Science)</h3>
+<h3 align="center">Data Scientist ( Machine Learning )</h3>
   <h4 align="center">Want to Hire Me? Mail me at <a href="mailto:mohamedabdulhameed96@gmail.com">mohamedabdulhameed96@gmail.com</a></h4>
+
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🌱 I am on the lookout for opportunities in Data Science, Machine Learning Engineering. Eager to harness data for informed decision-making and value creation.
 
