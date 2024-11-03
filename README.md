@@ -5,7 +5,7 @@
 
 - 🌱 I am on the lookout for opportunities in Data Science, Machine Learning Engineering. Eager to harness data for informed decision-making and value creation.
 
-- 💬 Ask me about **Python, SQL, Machine Learning, Data Science**
+- 💬 Ask me about ** Machine Learning **
 
 - 📫 How to reach me **mohamedabdulhameed96@gmail.com**
 
