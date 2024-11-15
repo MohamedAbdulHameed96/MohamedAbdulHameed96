@@ -1,6 +1,6 @@
 <div style="background-color:grey">
-<h1 align="center">Hi 👋, I'm Mohamed Abdul Hameed</h1>
-<h3 align="center">Data Scientist ( Machine Learning )</h3>
+<h1 align="center">Hello 👋, I'm Mohamed Abdul Hameed</h1>
+<h3 align="center"> Data Science ( Machine Learning | Generative AI ) </h3>
   <h4 align="center">Want to Hire Me? Mail me at <a href="mailto:mohamedabdulhameed96@gmail.com">mohamedabdulhameed96@gmail.com</a></h4>
 
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
