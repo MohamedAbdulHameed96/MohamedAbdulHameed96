@@ -1,7 +1,7 @@
 <div style="background-color:grey">
 <h1 align="center">Hello 👋, I'm Mohamed Abdul Hameed</h1>
 <h3 align="center"> Data Science ( Machine Learning | Generative AI ) </h3>
-  <h4 align="center">Want to Hire Me? Mail me at <a href="mailto:mohamedabdulhameed96@gmail.com">mohamedabdulhameed96@gmail.com</a></h4>
+  <h4 align="center">Want to Hire Me? Mail me at <a href="mailto:hamecastle@gmail.com">hamecastle@gmail.com</a></h4>
 
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about ** Machine Learning | Gen AI **
 
-- 📫 How to reach me **mohamedabdulhameed96@gmail.com**
+- 📫 How to reach me **hamecastle@gmail.com**
 
 - 🤖 Learn more about me on [Linkedin](https://www.linkedin.com/in/mohamed-abdul-hameed) . Visit my [Portfolio](https://gamma.app/docs/Analyst-Data-Scientist-cv3l8j8twnnx3fu?mode=doc) to go through my work and achievements
   
